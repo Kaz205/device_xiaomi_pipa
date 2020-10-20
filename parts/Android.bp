@@ -20,5 +20,6 @@ android_app {
         "androidx.core_core",
         "co.aospa.resources",
         "SettingsLib",
+        "vendor.xiaomi.hardware.touchfeature-V1.0-java",
     ],
 }
