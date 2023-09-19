@@ -149,7 +149,9 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-6144-dalvik-heap.mk)
 # Display
 PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.display.sensortype=2 \
-    vendor.display.qdcm.mode_combine=1
+    vendor.display.qdcm.mode_combine=1 \
+    ro.sf.force_handle_idle_timeout=1 \
+    ro.sf.defer_refresh_rate_when_off=1
 
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.surface_flinger.set_idle_timer_ms=4000 \
