@@ -330,10 +330,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/window_extensions.mk)
 PRODUCT_VENDOR_PROPERTIES += \
     vendor.sys.thermal.data.path=/data/vendor/thermal/
 
-# Touchfeature
-PRODUCT_PACKAGES += \
-    vendor.xiaomi.hardware.touchfeature@1.0.vendor
-
 # Update Engine
 PRODUCT_PACKAGES += \
     update_engine \
