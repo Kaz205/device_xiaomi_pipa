@@ -947,8 +947,17 @@ vendor/lib64/mediadrm/libwvdrmengine.so|0bf46f9297797c8ce7e8f6f4302b8c33db3d7e6b
 -vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml|ebebcf8f367641480cf7d512fc06e6ab777527be
 
 # WiFi - MIUI
+vendor/bin/athdiag|5f92c3a50b512b75fcef27674ceb10bc48789673
 vendor/bin/cnss-daemon|fb67cd00dcd302b249e7fdf0b6f3ddaf51e87dfe
+vendor/bin/cnss_diag|e6c1f7faa6eb3768a7f613d939c814edcaa0338c
+vendor/bin/hal_proxy_daemon|1e3d81a57deec5f9a89f9a5565428b0bb52af6e9
+vendor/bin/myftm|ac3015a78791cc14833a514935f76552d5f0176e
+vendor/bin/pktlogconf|502784049587c7c82757f26b4e81060e7425bb56
+vendor/bin/spectraltool|f2cb30e2dc692aa942da48ef1df57e190496e934
+vendor/bin/vendor_cmd_tool|16e6626540821f93a6ea53990a0dcc71231bce86
+vendor/bin/wifilearner|16366eef9bdb57ac0fc1d0ad87ef26b7320ded41
 vendor/bin/nv_mac|5de575cd0c3d0d5c79dcfd77df87eb69286da800
+vendor/lib64/vendor.qti.hardware.wifi.wifilearner@1.0.so|1fcbb7d6830f332e5a1edfde8d437f45e03750aa
 
 # WiFi Display
 vendor/bin/wfdhdcphalservice
