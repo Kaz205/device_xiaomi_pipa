@@ -958,6 +958,11 @@ vendor/bin/vendor_cmd_tool|16e6626540821f93a6ea53990a0dcc71231bce86
 vendor/bin/wifilearner|16366eef9bdb57ac0fc1d0ad87ef26b7320ded41
 vendor/bin/nv_mac|5de575cd0c3d0d5c79dcfd77df87eb69286da800
 vendor/etc/init/vendor.qti.hardware.wifi.wifilearner@1.0-service.rc|aacefc44da5e64760bc12779a83b905ca6b78f01
+vendor/etc/wifi/aoa_cldb_falcon.bin|7511e868c40e66e9758568b7112894cbce2650a4
+vendor/etc/wifi/aoa_cldb_swl14.bin|2a3be07a8f24bc1b9798d07c7133b0f71b77738f
+vendor/lib64/libgps.utils.so|06e9321a2a0b5835991fdaceaa54d2dcccfb7b54
+vendor/lib64/liblowi_client.so|a4ec2ce9d63900e94601b848df26b655b8116f04
+vendor/lib64/liblowi_wifihal.so|c869a6dc081714be47fd549b9e3e3a4a5a2ddf6d
 vendor/lib64/vendor.qti.hardware.wifi.wifilearner@1.0.so|1fcbb7d6830f332e5a1edfde8d437f45e03750aa
 
 # WiFi Display
