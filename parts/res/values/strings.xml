@@ -31,7 +31,7 @@
     <string name="refresh_summary">Set the maximum refresh rate for a specific application</string>
     <string name="refresh_default">Default</string>
     <string translatable="false" name="refresh_standard">60Hz</string>
-    <string translatable="false" name="refresh_extreme">120Hz</string>
+    <string translatable="false" name="refresh_extreme">144Hz</string>
 
     <!-- Dolby Atmos -->
     <string name="dolby_title">Dolby Atmos</string>
